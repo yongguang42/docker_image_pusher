@@ -7,4 +7,5 @@ xhofe/alist:latest
 rabbitmq
 
 redis
+
 kafka
