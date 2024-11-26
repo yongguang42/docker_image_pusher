@@ -8,3 +8,5 @@ rabbitmq
 
 redis
 minio
+kafka
+zookeeper
