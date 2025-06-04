@@ -8,3 +8,4 @@ elasticsearch:7.4.0
 kibana:7.4.0
 mysql:5.7
 milvusdb/milvus:v2.3.3
+zilliz/attu:v2.3.3
