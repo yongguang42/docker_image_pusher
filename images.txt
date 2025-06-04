@@ -7,5 +7,5 @@ xhofe/alist:latest
 elasticsearch:7.4.0
 kibana:7.4.0
 mysql:5.7
-nacos:2.4.3
+-- nacos:2.4.3
 milvus:2.3.3
