@@ -10,4 +10,4 @@
 #milvusdb/milvus:v2.3.3
 #zilliz/attu:v2.3.3
 #mongo:8.0.6
-redis-stack:latest
+redis/redis-stack:latest
