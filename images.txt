@@ -9,4 +9,5 @@
 #mysql:5.7
 #milvusdb/milvus:v2.3.3
 #zilliz/attu:v2.3.3
-mongo:8.0.6
+#mongo:8.0.6
+redis-stack:latest
