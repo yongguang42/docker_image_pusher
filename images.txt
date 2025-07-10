@@ -10,4 +10,5 @@
 #milvusdb/milvus:v2.3.3
 #zilliz/attu:v2.3.3
 #mongo:8.0.6
-redis/redis-stack:7.2.4
+#redis/redis-stack:7.2.4
+java:17
